@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Tacolicious
+
+  Created by Sophia Thoma on 03.01.23.
+  
+*/
+
+"Ranking" = "Ranking";
+"AlertTitle" = "New Taco-Rating";
+"AlertQuestion" = "Do you want to save this Rating?";
+"AlertActionYes" = "Yes please!";
+"AlertActionNo" = "Cancel";

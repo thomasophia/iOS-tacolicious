@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "0Ms-tR-A0K"; */
+"0Ms-tR-A0K.configuration.title" = "Guardar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Ms-tR-A0K"; */
+"0Ms-tR-A0K.normalTitle" = "Guardar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Zz-kJ-uZj"; */
+"9Zz-kJ-uZj.text" = "Tacolicious";
+
+/* Class = "UILabel"; text = "Label for second Question?"; ObjectID = "CaX-bB-llr"; */
+"CaX-bB-llr.text" = "¿Qué te han parecido los tacos?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JlF-Ga-d4N"; */
+"JlF-Ga-d4N.text" = "Tacolicious";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "R5C-hD-PcF"; */
+"R5C-hD-PcF.configuration.title" = "Clasificación";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R5C-hD-PcF"; */
+"R5C-hD-PcF.normalTitle" = "Clasificación";
+
+/* Class = "UILabel"; text = "Label for first Questions?"; ObjectID = "rUu-sl-P9v"; */
+"rUu-sl-P9v.text" = "¿Donde comiste tacos?";

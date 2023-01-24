@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Tacolicious
+
+  Created by Sophia Thoma on 03.01.23.
+  
+*/
+
+"Ranking" = "Clasificación";
+"AlertTitle" = "Nueva evaluación";
+"AlertQuestion" = "¿Quieres guardar tu evaluación?";
+"AlertActionYes" = "Sí, por favor";
+"AlertActionNo" = "Cancelar";
