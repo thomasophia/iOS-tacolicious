@@ -19,6 +19,6 @@ points will be colored + bigger and smaller. If you select another entry, the an
 
 ## How the app looks like
 
-> <img src="https://user-images.githubusercontent.com/112976198/214269671-6f6c4954-beb0-42fe-904c-86fe3f3a4a9a.mov" width="300"/>
+https://user-images.githubusercontent.com/112976198/214269671-6f6c4954-beb0-42fe-904c-86fe3f3a4a9a.mov
 
 
